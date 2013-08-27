@@ -3,7 +3,7 @@
 int main()
 {
 
-	printf("Beep \b");
+	printf("Beep \b\n");
 	
 	return 0;
 }
