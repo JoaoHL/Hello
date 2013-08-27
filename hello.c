@@ -1,9 +1,9 @@
 #include <stdio.h>
+#include "oi.h"
 
 int main(){
 
-	printf("Hello world!\n");
-	printf("Fisica");
-	printf("Oi");
-return 0;
+    diz_oi();
+    return 0;
+    
 }

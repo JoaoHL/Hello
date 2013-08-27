@@ -1,0 +1,1 @@
+void diz_oi();
